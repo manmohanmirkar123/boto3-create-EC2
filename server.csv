@@ -1,0 +1,3 @@
+﻿Name,instance_type,ami_id,min_count,max_count,key_name,tag
+server-111,t2.micro,ami-090fa75af13c156b4,1,1,my_key,manmohan-test1
+server-211,t2.small,ami-090fa75af13c156b4,1,1,my_key,manmohan-test2
